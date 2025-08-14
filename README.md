@@ -23,17 +23,6 @@ Este repositório contém 5 exercícios práticos do livro **"Lógica de Program
 
 ---
 
-##  Como executar
-
-1. **Baixe ou clone** este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-javascript-alura.git
-   ```
-
-2. Abra qualquer arquivo `.html` no seu navegador.
-
----
-
 ##  O que foi aprendido no curso
 
 - Declaração de variáveis com `let` e `const`.
