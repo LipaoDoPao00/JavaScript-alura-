@@ -1,10 +1,10 @@
-# 📘 Projeto JavaScript – Tipos, Variáveis e Funções
+#  Projeto JavaScript – Tipos, Variáveis e Funções
 
 Este repositório contém 5 exercícios práticos do livro **"Lógica de Programação e Algoritmos com JavaScript"** de Edécio Fernando Iepsen, feitos em **HTML, CSS e JavaScript**, seguindo as instruções do trabalho.
 
 ---
 
-## 📂 Exercícios incluídos
+##  Exercícios incluídos
 
 1. **Vizinhos de um Número**  
    Lê um número e mostra o anterior e o posterior.
@@ -23,7 +23,7 @@ Este repositório contém 5 exercícios práticos do livro **"Lógica de Program
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 1. **Baixe ou clone** este repositório:
    ```bash
@@ -34,7 +34,7 @@ Este repositório contém 5 exercícios práticos do livro **"Lógica de Program
 
 ---
 
-## 📚 O que foi aprendido no curso
+##  O que foi aprendido no curso
 
 - Declaração de variáveis com `let` e `const`.
 - Tipos de dados: `string`, `number`, `boolean`.
